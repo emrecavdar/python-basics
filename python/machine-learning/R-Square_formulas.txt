@@ -1,0 +1,9 @@
+residual = v - v_head
+
+square_residual = (residual)^2
+
+sum_square_residual(SSR) = sum((y - y_head)^2)
+
+sum_square_total(SST) = sum((y-y_avg)^2)
+
+r_square = 1 - (SSR / SST)

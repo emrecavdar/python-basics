@@ -1,0 +1,7 @@
+CART = Classification and Regression Tree
+
+we are using information entropy for this model
+
+we are adding a third dimension to our data and this value is our prediction
+
+we are dividing our data with splits

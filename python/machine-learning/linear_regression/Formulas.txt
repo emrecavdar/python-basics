@@ -1,0 +1,14 @@
+Formulas:
+
+y = b0 + b1*x
+
+b0 = constant(bias)
+b1 = coeff
+
+b1 = a/b
+
+residual = y - y_head
+
+MSE = sum(residual^2) / n (n = sample number)
+
+MSE = mean squared error

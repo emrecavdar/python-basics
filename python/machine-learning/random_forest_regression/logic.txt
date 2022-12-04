@@ -1,0 +1,9 @@
+Usually movie recommendation systems works with this.
+
+Random forest is a member of ensemble learning.
+
+We are choosing number of n samples for making a sub_data.
+
+Then we are using number of n trees and fin n results.
+
+Average of results is our actual result.
