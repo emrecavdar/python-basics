@@ -1,0 +1,1 @@
+P(Math|X) = (P(X|Math)*P(Math))/P(X)
